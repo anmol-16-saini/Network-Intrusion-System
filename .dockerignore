@@ -1,0 +1,9 @@
+nids_env/
+__pycache__/
+*.csv
+*.pkl
+*.h5
+*.ipynb
+.git/
+.gitignore
+.ipynb_checkpoints/
